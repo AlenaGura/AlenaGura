@@ -1,6 +1,10 @@
-## Привет!
-Меня зовут Алена и я QA Engineer. Здесь я хочу поделиться некоторыми элементами портфолио по тестированию.
+<h1>
+  Привет!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+Меня зовут Алена и я QA Engineer. Здесь я хочу поделиться некоторыми элементами портфолио по тестированию, а более подробно о моем опыте и навыкам можно узнать из <a href="https://docs.google.com/document/d/11bJt0FqSYUk3LOryaEMa4bf5tpM0DNpmVYW2-TXsVwY/edit?pli=1#heading=h.78rlvk1sif5a" rel="noflow">CV</a>
 
+---
 ### Соцсети
 <div id="badges">
   <p>
@@ -13,7 +17,8 @@
 </p>
 </div>
 
-### :hammer_and_wrench: Инструменты
+---
+### Инструменты
 <div>
   <img src="https://camo.githubusercontent.com/e70b799e72de2cbcbdfc253cc4dfd3fb42eb4923972611b9e68f206b4bdff88f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667" title="AndroidStudio"  alt="AndroidStudio" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
@@ -27,7 +32,17 @@
   
 </div>
 
+---
 ### Портфолио
+- <a href="https://docs.google.com/spreadsheets/d/1mpZ3oiLvxZheZjoavP4gjw702SSxgBgVoyeCQ1H_AfE/edit?usp=sharing" rel="noflow">Чек-листы и тест кейсы</a> 
+- <a href="https://docs.google.com/spreadsheets/d/17x36LYvE2l6p0XiNyBrI8-Onwf22PNtKftDKa9ZF4cA/edit?usp=sharing" rel="noflow">Баги и улучшения</a>
+- <a href="https://docs.google.com/spreadsheets/d/1uEF_Io-zUWGaIqqR6jPPL1h94y4L6tpOyzlU5fYNxjk/edit?usp=sharing" rel="noflow">Запросы SQL</a>
+- Charles Proxy
 
 
+---
 ### Сертификаты
+- <a href="" rel="noflow">Charles Proxy как инструмент тестировщика, 2024</a>
+- <a href="https://stepik.org/cert/2550041" rel="noflow">Тестирование ПО с нуля, 2024</a>
+- <a href="https://cert.software-testing.ru/362631680301728336" rel="noflow">SQL: Инструменты тестировщика, 2023</a>
+- <a href="https://cert.software-testing.ru/294726115843375617" rel="noflow">ШНАТ Ольги Назиной, 2021</a>
