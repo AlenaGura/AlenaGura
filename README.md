@@ -37,12 +37,12 @@
 - <a href="https://docs.google.com/spreadsheets/d/1mpZ3oiLvxZheZjoavP4gjw702SSxgBgVoyeCQ1H_AfE/edit?usp=sharing" rel="noflow">Чек-листы и тест кейсы</a> 
 - <a href="https://docs.google.com/spreadsheets/d/17x36LYvE2l6p0XiNyBrI8-Onwf22PNtKftDKa9ZF4cA/edit?usp=sharing" rel="noflow">Баги и улучшения</a>
 - <a href="https://docs.google.com/spreadsheets/d/1uEF_Io-zUWGaIqqR6jPPL1h94y4L6tpOyzlU5fYNxjk/edit?usp=sharing" rel="noflow">Запросы SQL</a>
-- Charles Proxy
+<!-- - Charles Proxy -->
 
 
 ---
 ### Сертификаты
-- <a href="" rel="noflow">Charles Proxy как инструмент тестировщика, 2024</a>
+<!-- - <a href="" rel="noflow">Charles Proxy как инструмент тестировщика, 2024</a> -->
 - <a href="https://stepik.org/cert/2550041" rel="noflow">Тестирование ПО с нуля, 2024</a>
 - <a href="https://cert.software-testing.ru/362631680301728336" rel="noflow">SQL: Инструменты тестировщика, 2023</a>
 - <a href="https://cert.software-testing.ru/294726115843375617" rel="noflow">ШНАТ Ольги Назиной, 2021</a>
