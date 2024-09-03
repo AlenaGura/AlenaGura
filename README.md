@@ -37,7 +37,8 @@
 - <a href="https://docs.google.com/spreadsheets/d/1mpZ3oiLvxZheZjoavP4gjw702SSxgBgVoyeCQ1H_AfE/edit?usp=sharing" rel="noflow">Чек-листы и тест кейсы</a> 
 - <a href="https://docs.google.com/spreadsheets/d/17x36LYvE2l6p0XiNyBrI8-Onwf22PNtKftDKa9ZF4cA/edit?usp=sharing" rel="noflow">Баги и улучшения</a>
 - <a href="https://docs.google.com/spreadsheets/d/1uEF_Io-zUWGaIqqR6jPPL1h94y4L6tpOyzlU5fYNxjk/edit?usp=sharing" rel="noflow">Запросы SQL</a>
-<!-- - Charles Proxy -->
+- <a href="https://github.com/AlenaGura/Charles-Proxy.git" rel="noflow">Charles Proxy</a>
+
 
 
 ---
